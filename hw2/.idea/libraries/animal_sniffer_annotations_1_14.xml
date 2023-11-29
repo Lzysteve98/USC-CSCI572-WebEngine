@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="animal-sniffer-annotations-1.14">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar_files/animal-sniffer-annotations-1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/apache-mime4j-core-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/apache-mime4j-dom-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/checker-compat-qual-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/crawler4j-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/error_prone_annotations-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/guava-24.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/httpclient-4.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jcl-over-slf4j-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/je-5.0.84.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jsr305-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/jul-to-slf4j-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/logback-classic-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/logback-core-1.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/slf4j-api-1.7.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/tagsoup-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/tika-core-1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jar_files/tika-parsers-1.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jar_files/jsr305-1.3.9.jar!/" />
+    </SOURCES>
+  </library>
+</component>

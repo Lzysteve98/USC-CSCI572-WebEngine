@@ -1,0 +1,45 @@
+Name: Ziyu Liu
+USC ID: 2458525526
+News site crawled: latimes.com
+Number of threads: 64
+
+Fetch Statistics
+================
+# fetches attempted: 19997
+# fetches succeeded: 19002
+# fetches failed or aborted: 995
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1323366
+# unique URLs extracted: 225585
+# unique URLs within News Site: 71753
+# unique URLs outside News Site: 153832
+
+Status Codes:
+=============
+200 OK: 19002
+301 Moved Permanently: 188
+302 Moved Temporarily: 28
+307 Temporary Redirect: 694
+404 Not Found: 85
+
+File Sizes:
+===========
+< 1KB: 54
+1KB ~ <10KB: 1171
+10KB ~ <100KB: 929
+100KB ~ <1MB: 16087
+>= 1MB: 17
+
+Content Types:
+==============
+image/png: 1279
+text/html: 16797
+image/jpeg: 141
+image/svg+xml: 14
+image/webp: 27
+
+I didn't use Wall Street Journal because it has a soft IP ban which leads to too much 403 forbiddens.
+For 2,000 fetches, the success rate is about 0.8. But for 20,000 fetches, there are more than 10k failed or aborted fetches.
+As a result, I chose the LA Times and it works well.

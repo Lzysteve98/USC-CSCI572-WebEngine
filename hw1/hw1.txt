@@ -1,0 +1,6 @@
+Average Percent Overlap: 20.8
+Average Spearman Coefficient: -5.00043
+
+When evaluating the performance of Yahoo's and Google's results, based on the average percent overlap and average Spearman coefficient, it is evident that there are some differences. The average percent overlap is about 20.8%, implying that some of the results are similar between my assigned search engine and Google. However, the average Spearman coefficient of -5.00043 indicates a relatively low degree of correlation, suggesting significant ranking discrepancies. Assuming we consider the results from Google to be the ones we expect, then the results from Yahoo will only have about 20% probability of giving users what they really want of.
+
+These disparities could be attributed to variations in algorithms, ranking criteria, and the dynamic nature of online data. Google has a more complex and accurate PageRank algorithm, so they can provide users with more precise searches. In addition, Google's database may be much larger than Yahoo's, so they can recommend to users the web pages they need more through history. 
